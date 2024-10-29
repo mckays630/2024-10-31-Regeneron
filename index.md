@@ -334,18 +334,18 @@ change the value of `carpentry` to `incubator`.
   </tr>
   <tr> 
     <td>09:00</td>
-    <td>R Part 1 - Marina Lehmkuhl</td>
+    <td>Python Part 1</td>
   </tr>
   <tr>
     <td>12:00</td>
     <td>Lunch break</td>
   </tr>
   <tr>
-    <td>13:00</td>
-    <td>R Part 2 - Ayush Saxena</td>
+    <td>12:30</td>
+    <td>Python Part 2</td>
   </tr>
   <tr> 
-    <td>15:45</td>  
+    <td>14:45</td>  
       <td>
         <ul>
           <li>Wrap-up</li>
@@ -354,7 +354,7 @@ change the value of `carpentry` to `incubator`.
     </td> 
   </tr>
   <tr> 
-    <td>16:00</td>
+    <td>15:00</td>
     <td>END</td>
   </tr>
 </table>
